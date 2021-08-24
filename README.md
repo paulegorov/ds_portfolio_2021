@@ -1,5 +1,6 @@
 # ds_portfolio (c) Paul Egorov, 2021
 ## ENG
+- **fasttext_train_full+avg_vectors.ipynb** - FastText training on custom data (reviews about the retailer), vectors averaging
 - **FastText_clusters.ipynb** - Topic modeling of reviews about the retailer, part of project with several experiments (FastText)
 - **RuGPT3FinetuneHF_.ipynb** - GPT-3 Fine-Tuning for news headlines generation (ruGPT-3)
 - **prohack_ye.ipynb** - McKinsey 2020 hackathon participation project. Top 17%. Predicting missing data in time series and solving an optimization problem.
