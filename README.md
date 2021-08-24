@@ -1,4 +1,4 @@
-# ds_portfolio (c) Paul Egorov, 2020
+# ds_portfolio (c) Paul Egorov, 2021
 ## ENG
 - **FastText_clusters.ipynb** - Topic modeling of reviews about the retailer, path of project with several experiments (FastText)
 - **RuGPT3FinetuneHF_.ipynb** - GPT-3 Fine-Tuning for news headlines generation (ruGPT-3)
