@@ -1,6 +1,6 @@
 # ds_portfolio (c) Paul Egorov, 2021
 ## ENG
-- **FastText_clusters.ipynb** - Topic modeling of reviews about the retailer, path of project with several experiments (FastText)
+- **FastText_clusters.ipynb** - Topic modeling of reviews about the retailer, part of project with several experiments (FastText)
 - **RuGPT3FinetuneHF_.ipynb** - GPT-3 Fine-Tuning for news headlines generation (ruGPT-3)
 - **prohack_ye.ipynb** - McKinsey 2020 hackathon participation project. Top 17%. Predicting missing data in time series and solving an optimization problem.
 - **spec_cnn_cl.pdf** - mathematical modeling and convolutional neural networks in the problem of segmentation of a road surface profile (MATLAB).
