@@ -1,5 +1,6 @@
 # ds_portfolio (c) Paul Egorov, 2021
 ## ENG
+- **pe-default-v7-f.html** Klarna Machine Learning Case Study (probability of default prediction)
 - **fasttext_train_full+avg_vectors.ipynb** - FastText training on custom data (reviews about the retailer), vectors averaging
 - **FastText_clusters.ipynb** - Topic modeling of reviews about the retailer, part of project with several experiments (FastText)
 - **RuGPT3FinetuneHF_.ipynb** - GPT-3 Fine-Tuning for news headlines generation (ruGPT-3)
